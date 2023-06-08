@@ -46,12 +46,4 @@ To run the program, follow these steps:
 
 3. The program will execute and display the results of the expression tree evaluation.
 
-## Customization
 
-You can customize the expression tree by modifying the code in the `main` function. Feel free to create your own mathematical expressions using the available operations (ADD, SUB, MUL, DIV, ABS, FIB) and test different scenarios.
-
-## License
-
-[Specify the license under which the code is distributed, e.g., MIT License, GNU General Public License]
-
-[Provide any additional information or acknowledgments if necessary]
